@@ -6,4 +6,18 @@ The team at Google Play Store wants to develop a feature that would enable them 
 - Does a higher size or price necessarily mean that an app would perform better than the other apps? 
 - Or does a higher number of installs give a clear picture of which app would have a better rating than others?
 
-### Analysis was done in Jupyter Notebook
+### Analysis was done in Jupyter Notebook using these Python libraries - Pandas, Numpy, Matplotib, Seaborn and Plotly
+
+This analysis used various analytical steps and visualization:
+- Data Handling and Cleaning
+- Sanity Checks
+- Outlier Analysis with Boxplots
+- Histograms
+- Distribution Plots
+- Pie Chart
+- Bar Chart
+- Pair Plots
+- Heatmaps
+- Line Chart
+- Stacked Bar Charts
+- Plotly
